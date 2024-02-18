@@ -1,6 +1,6 @@
 # Dolphin_Random_Photos
 small application consist of one screen that shows random dolphin photos every 2 sec .
-This Flutter app generates dolphin photos using unsplash developer api.
+This Flutter app generates dolphin photos using unsplash developer api , MVC and Cubit.
 
 ## Running the App
 
